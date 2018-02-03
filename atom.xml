@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>LANIO&#39;S BLOG</title>
+  
+  <subtitle>刹那间，爱上那一抹皱眉头</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://www.lanilove.com/"/>
+  <updated>2018-02-02T16:46:01.255Z</updated>
+  <id>http://www.lanilove.com/</id>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>我</title>
+    <link href="http://www.lanilove.com/2018/02/01/welcome/"/>
+    <id>http://www.lanilove.com/2018/02/01/welcome/</id>
+    <published>2018-02-01T13:05:02.000Z</published>
+    <updated>2018-02-02T16:46:01.255Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to my private blog !</p><h1 id="A-First-Level-Header"><a href="#A-First-Level-Header" class="headerlink" title="A First Level Header"></a>A First Level Header</h1><h2 id="A-Second-Level-Header"><a href="#A-Second-Level-Header" class="headerlink" title="A Second Level Header"></a>A Second Level Header</h2><a id="more"></a><pre><code>Now is the time for all good men to come tothe aid of their country. This is just aregular paragraph.The quick brown fox jumped over the lazydog&apos;s back.</code></pre><h1 id="Header-0"><a href="#Header-0" class="headerlink" title="Header 0"></a>Header 0</h1><h2 id="Header-1"><a href="#Header-1" class="headerlink" title="Header 1"></a>Header 1</h2><h3 id="Header-3"><a href="#Header-3" class="headerlink" title="Header 3"></a>Header 3</h3><blockquote><p>This is a blockquote.</p><p>This is the second paragraph in the blockquote.</p><h2 id="This-is-an-H2-in-a-blockquote"><a href="#This-is-an-H2-in-a-blockquote" class="headerlink" title="This is an H2 in a blockquote"></a>This is an H2 in a blockquote</h2></blockquote><ul><li>111111<br>2222222</li><li>1111111111</li></ul><ul><li>111111111</li><li>11111111</li><li>222222222</li></ul><ol><li>a</li><li>b</li><li>c</li></ol><p>This is an <a href="http://example.com/" title="With a Title" target="_blank" rel="noopener">example link</a>.</p><p>This is an <a href="http://search.yahoo.com/" title="Yahoo Search" target="_blank" rel="noopener">Yahoo</a>.</p><p>I start my morning with a cup of coffee and<br><a href="http://www.nytimes.com/" target="_blank" rel="noopener">The New York Times</a>.</p><p><img src="/images/apple-touch-icon-next.png" alt="66666666666" title="Title"></p><p>I strongly recommend against using any <code>&lt;blink&gt;</code> tags.</p><p>I wish SmartyPants used named entities like <code>&amp;mdash;</code><br>instead of decimal-encoded entites like <code>&amp;#8212;</code>.</p><p>If you want your page to validate under XHTML 1.0 Strict,<br>you’ve got to put paragraph tags in your blockquotes:</p><blockquote><br>    <p>For example.</p><br></blockquote><p><a href="http://example.com/" target="_blank" rel="noopener">http://example.com/</a></p><p>*literal asterisks*</p><table><br>    <tr><br>        <td>Foo</td><br>    </tr><br></table><h1 id="This-is-an-H1"><a href="#This-is-an-H1" class="headerlink" title="This is an H1"></a>This is an H1</h1><h2 id="This-is-an-H2"><a href="#This-is-an-H2" class="headerlink" title="This is an H2"></a>This is an H2</h2><h3 id="This-is-an-H3"><a href="#This-is-an-H3" class="headerlink" title="This is an H3"></a>This is an H3</h3><ol><li>Bird</li><li>McHale</li><li>Parish</li></ol><ul><li><p>Bird</p></li><li><p>Magic</p></li></ul><ul><li><p>A list item with a blockquote:</p><blockquote><p>This is a blockquote<br>inside a list item.</p></blockquote></li></ul><ol><li>What a great season.</li></ol><p>This is a normal paragraph:</p><pre><code>This is a code block.</code></pre><blockquote><p>  aaaaaa</p></blockquote><p>Here is an example of AppleScript:</p><pre><code>tell application &quot;Foo&quot;    beepend tell</code></pre><!-- MarkdownTOC --><ul><li><a href="#aaaa">aaaa</a><ul><li><a href="#111111">111111</a><ul><li><a href="#111111-1">111111</a></li></ul></li></ul></li></ul><!-- /MarkdownTOC --><p>1</p><p>1</p><p>1</p><p>1</p><p>1</p><p>1</p><p>1</p><p>1</p><p>1</p><p>1</p><p>1</p><p>1</p><p>1</p><p>1</p><p>1</p><p>1</p><p>1</p><p>1</p><p>1</p><p>1</p><p>1</p><p>1</p><p>1</p><p>1</p><h1 id="aaaa"><a href="#aaaa" class="headerlink" title="aaaa"></a>aaaa</h1><h2 id="111111"><a href="#111111" class="headerlink" title="111111"></a>111111</h2><h3 id="111111-1"><a href="#111111-1" class="headerlink" title="111111"></a>111111</h3>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Welcome to my private blog !&lt;/p&gt;
+&lt;h1 id=&quot;A-First-Level-Header&quot;&gt;&lt;a href=&quot;#A-First-Level-Header&quot; class=&quot;headerlink&quot; title=&quot;A First Level Header&quot;&gt;&lt;/a&gt;A First Level Header&lt;/h1&gt;&lt;h2 id=&quot;A-Second-Level-Header&quot;&gt;&lt;a href=&quot;#A-Second-Level-Header&quot; class=&quot;headerlink&quot; title=&quot;A Second Level Header&quot;&gt;&lt;/a&gt;A Second Level Header&lt;/h2&gt;
+    
+    </summary>
+    
+      <category term="未知" scheme="http://www.lanilove.com/categories/%E6%9C%AA%E7%9F%A5/"/>
+    
+    
+      <category term="未知" scheme="http://www.lanilove.com/tags/%E6%9C%AA%E7%9F%A5/"/>
+    
+  </entry>
+  
+</feed>
